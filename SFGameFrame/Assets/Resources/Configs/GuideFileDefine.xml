@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+<item name ="Guide1" btns = "Btn_OK;BtnItem1 (2)"/>
+<item name ="Guide2" btns = "testBtn21;testBtn22"/>
+</Root>

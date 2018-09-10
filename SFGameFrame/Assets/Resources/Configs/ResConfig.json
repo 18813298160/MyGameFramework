@@ -1,0 +1,26 @@
+﻿[
+  {
+    "name": "Canvas",
+    "path": "Canvas",
+  },
+  {
+    "name": "LogonUIForm",
+    "path": "UIPrefabs\\LogonUIForm",
+  },
+  {
+    "name": "MainForm",
+    "path": "UIPrefabs\\MainForm",
+  },
+  {
+    "name": "GameOverForm",
+    "path": "UIPrefabs\\GameOverForm",
+  },
+  {
+    "name": "BossAppearForm",
+    "path": "UIPrefabs\\BossAppearForm",
+  },
+  {
+    "name": "TipsUIForm",
+    "path": "UIPrefabs\\TipsUIForm",
+  }
+]
